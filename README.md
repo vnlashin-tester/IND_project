@@ -1,9 +1,9 @@
 # IND_project
 
-## About Me
-I am a Software Test Engineer with more than 4 years of experience. <br> 
-I specialize in ensuring the quality and reliability of software products through thorough testing. <br>
-Here is a short list of my skills: <br>
+## About project
+The core functionality testing project was carried out in 2021 as a training process.
+
+During testing.....
 
 ### Skills
 - Functional testing
