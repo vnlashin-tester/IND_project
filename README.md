@@ -16,7 +16,7 @@ The following types of testing were used:
 Before testing, the following research was carried out:
 - [Most visited pages of the site](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
   
-- [Most popular browsers and OS]()
+- [Most popular browsers and OS](https://drive.google.com/file/d/1VHGooDbvD1dRe79FvL3FiTPlAXYBWJ7O/view?usp=sharing)
 
 - [Trafic analysis](https://drive.google.com/file/d/1PWlV8IiXow60BaT1-Mz0TU5O096bnbtZ/view?usp=sharing)
 
