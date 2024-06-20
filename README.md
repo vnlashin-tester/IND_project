@@ -4,7 +4,7 @@
 The core functionality testing project was carried out in 2021 as a training process.
 
 This project involved mostly manual testing.
-
+#
 The following types of testing were used:
 - Exploratory testing
 - Functional testing
