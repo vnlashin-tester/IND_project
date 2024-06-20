@@ -14,9 +14,11 @@ The following types of testing were used:
 - Usability testing
 
 Before testing, the following research was carried out:
-- [Most visited pages of the site](https://drive.google.com/file/d/1PWlV8IiXow60BaT1-Mz0TU5O096bnbtZ/view?usp=sharing)
+- [Most visited pages of the site](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
   
-- [Most popular browsers and OS](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
+- [Most popular browsers and OS]()
+
+- [Trafic analysis](https://drive.google.com/file/d/1PWlV8IiXow60BaT1-Mz0TU5O096bnbtZ/view?usp=sharing)
 
 The following tools were used for testing:
 - XMind - for writing site diagrams
