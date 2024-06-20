@@ -8,7 +8,7 @@ This project involved mostly manual testing.
 The following types of testing were used:
 - Exploratory testing
 - Functional testing
-- [Cross-browser testing](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
+- [Cross-browser testing](https://drive.google.com/file/d/1YIndy1TQnRM3Pd7oASqEQChzgNFKBSOz/view?usp=sharing)
   
 - Prformance Testing
 - Usability testing
