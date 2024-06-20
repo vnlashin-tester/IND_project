@@ -56,27 +56,17 @@ The following testing artifacts were written:
 
 Based on the testing results, the following documents were provided:
 
-- [General testing report](https://docs.google.com/spreadsheets/d/1iIGJULA_PgELlr0ogBdLKH0nWs0Io0FI/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
+- [General testing report](https://docs.google.com/spreadsheets/d/1Fecn1eFaqI2S3bbw5Gti74hlDncsvdhB/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
   
 - [Test report with results and recommendations](https://docs.google.com/document/d/1QGPRdYqNBJ-PPHVus1yxbozDZomzDfBK/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
   
 - [Usability test - report](https://docs.google.com/document/d/19669uDwVm5mzEmjxIuVdK5iZ6c-6Zhv-/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
   
 - Bug reports:
-- [Bug_report_ex_1](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
+- [Bug_report_ex_1](https://drive.google.com/file/d/1Y5jP7KL08D0tJSWMkiq1gGq4mW-KKbXL/view?usp=sharing)
 - [Bug_report_ex_2](https://drive.google.com/file/d/1BCxvD3aYJBXIiKOwJ5BzlhTmh3wQ5ThK/view?usp=sharing)
 
  
 
-
-
-
-
-Artefacts can be found on Google Drive.
-
-- <a href="https://docs.google.com/document/d/1mu7r23lQwvueH1c_ltrmVmpEzFx3lkqlwZ1kSe0A0x4/edit?usp=sharing" target="_blank">Test Plan</a>
-- <a href="https://docs.google.com/spreadsheets/d/1f4Q8VN6Gufj0R72tmPBWx7tXoL7sAcTbXJKIx3ZEtRk/edit?usp=sharing" target="_blank">User Stories</a>
-- <a href="https://docs.google.com/spreadsheets/d/1bLJAJp9h3iQc03_BMJ5PXBq2RVoE54kseyUYoxY_feQ/edit?usp=sharing" target="_blank">Checklists and Trace Matrix</a>
-- <a href="https://vnlashin-tester.github.io/Mind_Map/markmap.html" target="_blank">Mind_Map</a> 
 
 
