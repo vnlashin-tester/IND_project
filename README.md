@@ -49,9 +49,9 @@ The following testing artifacts were written:
 - [Cross-browser testing matrix](https://docs.google.com/spreadsheets/d/1NVSbcxd_iaNrslFOtPQMIEEsla7tvwNU/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
   
 - Mind maps:
-- [Mind_map_ex_1](https://docs.google.com/spreadsheets/d/1iIGJULA_PgELlr0ogBdLKH0nWs0Io0FI/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
+- [Mind_map_ex_1](https://drive.google.com/file/d/1RnieDt6X5vO-Wx7ZgBZZ1Mmthd9r2J5b/view?usp=sharing)
 
-- [Mind_map_exp_2](https://docs.google.com/spreadsheets/d/1iIGJULA_PgELlr0ogBdLKH0nWs0Io0FI/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true)
+- [Mind_map_exp_2](https://drive.google.com/file/d/1UoowpXm91YUe6L0rFyswep1Qn5cq-O4D/view?usp=sharing)
   
 
 Based on the testing results, the following documents were provided:
