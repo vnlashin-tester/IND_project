@@ -71,8 +71,8 @@ https://docs.google.com/document/d/1QGPRdYqNBJ-PPHVus1yxbozDZomzDfBK/edit?usp=sh
 https://docs.google.com/document/d/19669uDwVm5mzEmjxIuVdK5iZ6c-6Zhv-/edit?usp=sharing&ouid=111315660461555284046&rtpof=true&sd=true
   
 - Bug reports:
-[Bug_report_ex_1](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
-[Bug_report_ex_2](https://drive.google.com/file/d/1BCxvD3aYJBXIiKOwJ5BzlhTmh3wQ5ThK/view?usp=sharing)
+- [Bug_report_ex_1](https://drive.google.com/file/d/1LQjtxsreHNFkOTbD2tbYqpKFbT5U20PG/view?usp=sharing)
+- [Bug_report_ex_2](https://drive.google.com/file/d/1BCxvD3aYJBXIiKOwJ5BzlhTmh3wQ5ThK/view?usp=sharing)
 
  
 
